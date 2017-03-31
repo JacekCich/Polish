@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 /*
 +====================================================================+
 +--------------------------------------------------------------------+
@@ -11,6 +12,20 @@
 +--------------------------------------------------------------------+
 +====================================================================+
 */
+=======
+/*
++====================================================================+
++--------------------------------------------------------------------+
+   * Spolszczenie systemu CMS e107                                   *
+   * Polish language file                                            *
+	* e107 Polish Team                                                *
+	* www.d4e.pl                                                      *
+	* $Date: 2016/02/20                                               *
+	* $Author: JacekCich                                              *
++--------------------------------------------------------------------+
++====================================================================+
+*/
+>>>>>>> refs/remotes/e107translations/master
 define("CHATBOX_L1", "Post został odrzucony, ponieważ podana nazwa użytkownika jest już zarejestrowana - jeśli to jest Twoja nazwa użytkownika zaloguj się, aby pisać posty.");
 define("CHATBOX_L3", "Musisz być zalogowany, aby wystawiać komentarze na tej stronie. Proszę się zalgować lub jeśli nie masz jeszcze konta [zarejestruj się]");
 define("CHATBOX_L3b", "Jeśli nie jesteś zarejestrowany, kliknij [tutaj], aby się zarejestrować.");

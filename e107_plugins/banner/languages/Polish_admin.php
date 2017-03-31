@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 /*
 +====================================================================+
 +--------------------------------------------------------------------+
@@ -13,6 +14,22 @@
   Jest bład w skrypcie admin_chatbox.php Ten bład w lini kodu 126 <td>".LAN_PRUNE.":</td>
   powoduje złe tłumaczenie. powinno być Wyczyść, Oczyszczanie czatu. Jest 	tłumaczenie z LAN_PRUNE
 */
+=======
+/*
++====================================================================+
++--------------------------------------------------------------------+
+   * Spolszczenie systemu CMS e107                                   *
+   * Polish language file                                            *
+	* e107 Polish Team                                                *
+	* www.d4e.pl                                                      *
+	* $Date: 2016/02/20                                               *
+	* $Author: JacekCich                                              *
++--------------------------------------------------------------------+
++====================================================================+
+  Jest bład w skrypcie admin_chatbox.php Ten bład w lini kodu 126 <td>".LAN_PRUNE.":</td>
+  powoduje złe tłumaczenie. powinno być Wyczyść, Oczyszczanie czatu. Jest 	tłumaczenie z LAN_PRUNE
+*/
+>>>>>>> refs/remotes/e107translations/master
 define("BNRLAN_00", "Nie ma jeszcze banerów.");
 define("BNRLAN_01", "ID banera nie znaleziono.");
 define("BNRLAN_11", "Kampania");

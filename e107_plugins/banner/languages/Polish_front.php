@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 /*
 +====================================================================+
 +--------------------------------------------------------------------+
@@ -11,6 +12,20 @@
 +--------------------------------------------------------------------+
 +====================================================================+
 */
+=======
+/*
++====================================================================+
++--------------------------------------------------------------------+
+   * Spolszczenie systemu CMS e107                                   *
+   * Polish language file                                            *
+	* e107 Polish Team                                                *
+	* www.d4e.pl                                                      *
+	* $Date: 2016/02/20                                               *
+	* $Author: JacekCich                                              *
++--------------------------------------------------------------------+
++====================================================================+
+*/
+>>>>>>> refs/remotes/e107translations/master
 define("BANNERLAN_19", "Proszę wprowadzić swoją nazwę klienta oraz hasło");
 define("BANNERLAN_20", "Nie odnaleziono wskazanych informacji w bazie danych. Proszę skontaktować się z administratorem strony w celu wyjaśnienia.");
 define("BANNERLAN_21", "Statystyki banerów");
